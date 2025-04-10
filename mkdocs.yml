@@ -1,4 +1,6 @@
-site_name: Arc4EAI
+site_name: Arch4EAI
 site_url: https://arch4eai.github.io/
 theme:
   name: material
+extra_css:
+  - css/custom.css

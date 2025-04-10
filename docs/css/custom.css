@@ -1,0 +1,24 @@
+.submission-guidelines {
+    background-color: #f5f6f5; /* 浅灰背景色，可调整为 #e0f7fa（浅蓝）等 */
+    padding: 5px; /* 增加内边距，避免文字紧贴边缘 */
+    border-radius: 8px; /* 圆角效果 */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 轻微阴影，增加立体感 */
+    margin-bottom: 1.5em; /* 段落间距 */
+    font-size: 0.9em; /* 减小字体 */
+    line-height: 1.6; /* 增加行高，提升可读性 */
+}
+
+.submission-guidelines ul {
+    margin: 0; /* 移除默认外边距 */
+    padding-left: 20px; /* 调整列表缩进 */
+    list-style-type: disc; /* 保持圆点样式 */
+}
+
+.submission-guidelines li {
+    margin-bottom: 0.8em; /* 列表项间距，确保分行清晰 */
+    color: #333; /* 文字颜色，深灰色以保证对比度 */
+}
+
+.submission-guidelines li strong {
+    color: #1a1a1a; /* 粗体文字更深色，增强对比 */
+}
