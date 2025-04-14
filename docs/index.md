@@ -86,11 +86,11 @@
     <p><strong>Please register for ISCA to get Zoom access to this event</strong></p>
 
     <ul>
-        <li>🕡 <strong>Duration</strong>: Half Day (Tokyo Time)</li>
+        <li>🕡 <strong>Duration</strong>: Half Day</li>
         <li>📅 <strong>Date</strong>: Saturday, June 21, 2025</li>
         <li>⏰ <strong>Start Time</strong>: 1:00 PM JST</li>
         <li>🎫 <strong>Registration</strong>: <a href="https://www.iscaconf.org/isca2025/attend/register.php">Sign Up Here</a></li>
-        <li>📆 <strong>Paper Submission Deadline</strong>: April 28, 2025</li>
+        <li>📆 <strong>Paper Submission Deadline</strong>: Tuesday Apr 29, 2025, 7:59:59 AM UT</li>
         <li>🛎️ <strong>Notification of Acceptance</strong>: May 5, 2025</li>
     </ul>
 
@@ -148,7 +148,7 @@
     </div>
 
     <h3>Paper Submission System</h3>
-    <p>TBD</p>
+    <p>https://arch4eai25.hotcrp.com</p>
 
     <h2>Organizing Chairs and Bios</h2>
     <ul>
