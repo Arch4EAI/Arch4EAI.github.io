@@ -181,6 +181,12 @@
             <td>UC Irvine</td>
             <td>Programming Languages for Embodied AI Systems</td>
         </tr>
+        <tr>
+            <td><a href="https://edge.seas.harvard.edu/people/vijay-janapa-reddi">Vijay Janapa Reddi</a></td>
+            <td>Associate Professor</td>
+            <td>Harvard University</td>
+        <td>Benchmarking Robotic Applications</td>
+        </tr>
     </table>
 
     <h2>Contact Us</h2>
