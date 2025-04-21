@@ -187,6 +187,12 @@
             <td>Harvard University</td>
         <td>Benchmarking Robotic Applications</td>
         </tr>
+        <tr>
+            <td><a href="https://www.waseda.jp/inst/fro/en/institutes/ai/">OGATA Tetsuya</a></td>
+            <td>Professor</td>
+            <td>Waseda University</td>
+        <td>Cognitive Developmental Robotics</td>
+        </tr>
     </table>
 
     <h2>Contact Us</h2>
